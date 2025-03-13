@@ -22,6 +22,7 @@
                 },
                 "date":"2025-03-15",
                 "time":"10:10:00Z",
+                "timeZone": "America/New_York",
                 "FirstPractice":{"date":"2025-03-13","time":"10:05:00Z"},
                 "SecondPractice":{"date":"2025-03-13","time":"15:05:00Z"},
                 "ThirdPractice":{"date":"2025-03-13","time":"19:45:00Z"},

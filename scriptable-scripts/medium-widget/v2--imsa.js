@@ -224,6 +224,7 @@ async function createWidget() {
     let headerText = `${flag} ${race.raceName.toUpperCase()}`;
     const headerCell = headerStack.addStack();
     headerCell.size = new Size(options.width, 0);
+    headerCell.textColor = Color.white();
     headerCell.addSpacer();
 
     const textElement = headerCell.addText(headerText);

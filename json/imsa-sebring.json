@@ -1,0 +1,33 @@
+{"MRData":
+    {"xmlns":"",
+    "series":"IMSA",
+    "url":"http://api.jolpi.ca/ergast/f1/current/next.json",
+    "limit":"30",
+    "offset":"0",
+    "total":"1",
+    "RaceTable":{
+        "season":"2025",
+        "round":"2",
+        "Races":[
+            {
+                "season":"2025",
+                "round":"1",
+                "url":"https://en.wikipedia.org/wiki/2025_12_Hours_of_Sebring",
+                "raceName":"12 Hours of Sebring",
+                "Circuit":{
+                    "circuitId":"sebring_international_raceway",
+                    "url":"https://en.wikipedia.org/wiki/Sebring_International_Raceway",
+                    "circuitName":"Sebring International Raceway",
+                    "Location":{"lat":"27.4499164","long":"-81.3559867","locality":"Sebring","country":"United States"}
+                },
+                "date":"2025-03-15",
+                "time":"10:10:00Z",
+                "FirstPractice":{"date":"2025-03-13","time":"10:05:00Z"},
+                "SecondPractice":{"date":"2025-03-13","time":"15:05:00Z"},
+                "ThirdPractice":{"date":"2025-03-13","time":"19:45:00Z"},
+                "Qualifying":{"date":"2025-03-14","time":"11:25:00Z"}
+            }
+        ]
+    }
+    }
+}
